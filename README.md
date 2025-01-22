@@ -11,7 +11,9 @@
     🔭 Enhancing my Fullstack skillset with ReactJS, Python, and Flask-SQLAlchemy.<br>
     🌱 Learning Python and SQL to excel in Backend development and become a Fullstack Developer.<br>
     💞️ Open to collaborating on any project at the moment.<br>
-    📫 Reach me at ---> hello.bon.rex@gmail.com<br>
+    📫 Reach me at ---> 
+
+hello.sabona@gmail.com<br>
   <br><br>
   
 <h2 align="center">⚔️ Languages and Tools ⚔️</h2>
